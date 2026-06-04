@@ -1,1 +1,272 @@
 Could not connect: Connection refused
+Invalid thread ID: 30696
+Naming server running on ip: 172.17.0.2
+Naming server listening on ports 8081 (clients) and 8080 (storage servers)
+ss registeration attempted
+172.17.0.2 9001 9002
+9002
+Storage server 0 connected
+
+Starting heartbeat.
+
+SS 0 is alive!
+Sent PING to 0!
+Adding the paths sent by the storage server./home/viratgarg/Documents/Resume/NFS2/data
+P0 : ./home/viratgarg/Documents/Resume/NFS2/data ./home/viratgarg/Documents/Resume/NFS2/data
+P0 : ./home/viratgarg/Documents/Resume/NFS2/data ./home/viratgarg/Documents/Resume/NFS2/data/hi.txt
+./home/viratgarg/Documents/Resume/NFS2/data
+0 : ./home/viratgarg/Documents/Resume/NFS2/data0 : ./home/viratgarg/Documents/Resume/NFS2/data./home/viratgarg/Documents/Resume/NFS2/data
+Inserting path: ./home/viratgarg/Documents/Resume/NFS2/data
+./home/viratgarg/Documents/Resume/NFS2/data/hi.txt
+Inserting path: ./home/viratgarg/Documents/Resume/NFS2/data/hi.txt
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!Sent PING to 0!
+SS 0 died!
+ss registeration attempted
+172.17.0.2 9001 9002
+WELCOME BACK
+Storage server 0 connected
+
+Starting heartbeat.
+
+SS 0 is alive!
+Adding the paths sent by the storage server./home/viratgarg/Documents/Resume/NFS2/data
+P0 : ./home/viratgarg/Documents/Resume/NFS2/data ./home/viratgarg/Documents/Resume/NFS2/data
+P0 : ./home/viratgarg/Documents/Resume/NFS2/data ./home/viratgarg/Documents/Resume/NFS2/data/hi.txt
+./home/viratgarg/Documents/Resume/NFS2/data
+0 : ./home/viratgarg/Documents/Resume/NFS2/data0 : ./home/viratgarg/Documents/Resume/NFS2/dataSent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+client connection completedReceived request: (36) 
+
+
+
+
+
+NULL 4
+Sent 10032 bytes to client
+Handling LIST_ALL_PATHS request: 
+YES
+NO
+YES
+to send : ./home/viratgarg/Documents/Resume/NFS2/data|./home/viratgarg/Documents/Resume/NFS2/data/hi.txt| 95
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING to 0!
+
+SS 0 is alive!
+Sent PING t
