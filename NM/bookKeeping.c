@@ -25,7 +25,8 @@ int insert_log(int communication_type, int id, int port, RequestType type, char 
     fclose(logfile);
 }
 
-void print_log() {
+void print_log(int sig) {
+    (void)sig;
     FILE *logfile = fopen(LOG_FILE, "r");
     if (logfile == NULL) {
         perror("Failed to open log file");

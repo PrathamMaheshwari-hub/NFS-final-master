@@ -63,7 +63,7 @@ void adding_paths(TrieNode *root, ListNode **head);
 #define STORAGE_SERVER_COMMUNICATION -2
 
 int insert_log(int communication_type, int id, int port, RequestType type, char *info, int status_code);
-void print_log();
+void print_log(int sig);
 void signal_handler(int signal);
 void setup_signal_handler();
 

@@ -7,7 +7,7 @@ typedef struct
 
 void make_SS_socket()
 {
-    int ss_sock; // Sockets for SS communication
+    static int ss_sock; // Sockets for SS communication
     struct sockaddr_in ss_addr;
 
     // Initialize and bind the SS socket
